@@ -1,7 +1,15 @@
 # REDkit Demo
 
 ## Background
-A *small* game I made in REDkit to learn how to program works. 
+A *small, work-in-progress* game I am making in REDkit to learn how to program works. 
+
+### Progress
+So far, there is not much of anything.
+* Terrain scaping *in progress*
+* Texturing Terrain *in progress*
+* Decorating *in progress*
+* Trees and plants *next*
+* Characters, quest, etc. *coming up*
 
 ## Install
 1. Find a Windows 8 or 10 computer with about 30GB of free space.
