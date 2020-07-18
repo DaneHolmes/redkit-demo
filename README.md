@@ -5,10 +5,10 @@ A *small, work-in-progress* game I am making in REDkit to learn how to program w
 
 ### Progress
 So far, there is not much of anything.
-* Terrain scaping *in progress*
-* Texturing Terrain *in progress*
+* ~Terrain scaping~
+* ~Texturing Terrain~
 * Decorating *in progress*
-* Trees and plants *next*
+* Trees and plants *in progress*
 * Characters, quest, etc. *coming up*
 
 ## Install
